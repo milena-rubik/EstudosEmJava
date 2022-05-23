@@ -13,7 +13,7 @@ public class matriz {
         for (int i = 0; i<vetor.length;i++){
             soma = soma + vetor[i];
         }
-        JOptionPane.showMessageDialog(null,"A somatória de "+vetor+"é"+soma);
+        JOptionPane.showMessageDialog(null,"A somatória de "+vetor+" é "+soma);
     }
 
     public static int produtoria (int vetor []){
@@ -31,7 +31,7 @@ public class matriz {
         
         somatoria(numeros);
         p = produtoria(numeros);
-        JOptionPane.showMessageDialog(null, "A produtória de "+numeros+"é "+p);
+        JOptionPane.showMessageDialog(null, "A produtória de "+numeros+" é "+p);
         
         System.exit(0);       
 
