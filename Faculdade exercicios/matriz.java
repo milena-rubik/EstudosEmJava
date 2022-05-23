@@ -1,3 +1,5 @@
+//TESTAR CÓDIGO
+
 /* Desenvolva um programa Java que declara matriz unidimensional (Vetor) de inteiros, receba números inteiros num vetor de 5 posições, calcula a somatória (ex.: s = s + vet[i]) 
 e a produtória (ex.: p = p * vet[i]) desses números com um método similar a um procedimento e um método similar a uma função, ambos utilizando parâmetros, por fim, 
 mostre essas informações na tela */
