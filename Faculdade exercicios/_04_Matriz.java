@@ -4,7 +4,7 @@ mostre essas informações na tela */
 
 import javax.swing.*;
 
-public class _04_matriz {
+public class _04_Matriz {
 
     public static void somatoria(int vetor[]) {
         int soma = 0;
